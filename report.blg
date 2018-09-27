@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: plain.bst
+Database file #1: bibreport.bib
+Warning--entry type for "id1" isn't style-file defined
+--line 1 of file bibreport.bib
+Warning--entry type for "id4" isn't style-file defined
+--line 18 of file bibreport.bib
+Warning--entry type for "id5" isn't style-file defined
+--line 24 of file bibreport.bib
+Warning--I didn't find a database entry for "d1"
+Warning--I didn't find a database entry for "problem2"
+Warning--to sort, need author or key in id1
+Warning--to sort, need author or key in id4
+Warning--to sort, need author or key in id5
+Warning--empty journal in id2
+Warning--empty year in id2
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            521 strings with 4554 characters,
+and the built_in function-call counts, 1049 in all, are:
+= -- 97
+> -- 18
+< -- 0
++ -- 10
+- -- 4
+* -- 42
+:= -- 152
+add.period$ -- 15
+call.type$ -- 6
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 11
+duplicate$ -- 48
+empty$ -- 122
+format.name$ -- 4
+if$ -- 233
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 1
+newline$ -- 30
+num.names$ -- 4
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 35
+stack$ -- 0
+substring$ -- 31
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 5
+while$ -- 4
+width$ -- 7
+write$ -- 51
+(There were 10 warnings)

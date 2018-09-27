@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{id4}
+Python 3.7 documentation.
+\newblock \url{https://docs.python.org/3/}.
+
+\bibitem{id1}
+Python3 tutorial.
+\newblock \url{https://www.tutorialspoint.com/python3/index.htm}.
+
+\bibitem{id5}
+Run python in linux(ubuntu), Oct 2015.
+\newblock \url{https://www.youtube.com/watch?v=3xp-ixFbDuE}.
+
+\bibitem{pyth}
+Paul Barry.
+\newblock {\em Head First Python}.
+\newblock
+  \url{https://doc.lagout.org/programmation/python/Head%20First%20Python%2C%20First%20Edition%20%282010%29.pdf}.
+
+\bibitem{id3}
+Bitbucket.
+\newblock {\em Become a git guru}.
+\newblock \url{https://www.atlassian.com/git/tutorials}.
+
+\bibitem{id2}
+Microwave Sam.
+\newblock {How to Get Started with Github-Beginer}.
+\newblock \url{https://www.youtube.com/watch?v=73I5dRucCds&spfreload=5}.
+
+\end{thebibliography}
